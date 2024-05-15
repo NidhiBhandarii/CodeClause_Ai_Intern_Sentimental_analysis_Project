@@ -1,5 +1,6 @@
 # CodeClause_Ai_Intern_Sentimental_analysis_Project
 Detailed Description of Sentiment Analysis on Amazon Reviews
+
 Objective:
 The goal of this project is to perform sentiment analysis on Amazon product reviews to understand the distribution of sentiments (positive, neutral, and negative) and how they correlate with the star ratings provided by the users.
 
